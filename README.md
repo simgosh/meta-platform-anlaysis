@@ -1,6 +1,9 @@
-# meta-stock-analysis
+# meta-platform-stock-analysis
+
 **Meta Platforms Stock Price 
+
 ****This dataset contains daily stock price data for Meta Platforms (formerly Facebook) from October 28, 2021, to May 7, 2024.
+
 The data was collected from Yahoo Finance, and this dataset was taken from Kaggle.com.**
 
 1) ![image](https://github.com/simgosh/meta-stock-/assets/158474992/123de8a6-b581-44b0-933e-529a07e184fa)
